@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/camo/camo/MainActivity.java
+ com.camo.camo.MainActivity
+com/camo/camo/BuildConfig.java
+ com.camo.camo.BuildConfig
